@@ -106,7 +106,9 @@ Acesse http://localhost:5173 e comece a usar! 🎉
 
 </div>
 
-🧩 Arquitetura
+Perfeito! Aqui está tudo organizado:
+markdown## 🧩 Arquitetura
+```
 src/
 ├── components/
 │   ├── Header.jsx           # Logo e título
@@ -117,61 +119,74 @@ src/
 ├── MoneyMind.jsx            # Container principal (lógica)
 ├── App.jsx                  # Entry point
 └── index.css                # Tailwind imports
-Princípios de design:
+```
 
-Cada componente tem uma responsabilidade única
-Props bem definidas para fácil manutenção
-Lógica centralizada no container principal
-UI components stateless quando possível
+**Princípios de design:**
 
-💡 Por que MoneyMind?
-Para Usuários
+- Cada componente tem uma **responsabilidade única**
+- Props bem definidas para **fácil manutenção**
+- Lógica centralizada no container principal
+- UI components **stateless** quando possível
 
-🎯 Foco total - Só o essencial, sem distrações
-🔒 Privacidade - Seus dados não saem do seu computador
-💨 Velocidade - Interface instantânea, zero loading
-🆓 Gratuito - Open source, sempre será grátis
+## 💡 Por que MoneyMind?
 
-Para Recrutadores/Tech Leads
+### Para Usuários
 
-📝 Código limpo - Fácil de ler e manter
-🧪 Boas práticas - Hooks, memoização, componentização
-⚡ Performance - Otimizado desde o início
-🎨 UI/UX - Design moderno e funcional
-📊 Lógica complexa - Cálculos derivados, filtros, exports
+🎯 **Foco total** - Só o essencial, sem distrações  
+🔒 **Privacidade** - Seus dados não saem do seu computador  
+💨 **Velocidade** - Interface instantânea, zero loading  
+🆓 **Gratuito** - Open source, sempre será grátis
 
-🔮 Roadmap
+### Para Recrutadores/Tech Leads
+
+📝 **Código limpo** - Fácil de ler e manter  
+🧪 **Boas práticas** - Hooks, memoização, componentização  
+⚡ **Performance** - Otimizado desde o início  
+🎨 **UI/UX** - Design moderno e funcional  
+📊 **Lógica complexa** - Cálculos derivados, filtros, exports
+
+## 🔮 Roadmap
+
 Próximas features planejadas:
 
- 📊 Gráficos de evolução financeira
- 🏷️ Categorias personalizadas
- 🎯 Metas de economia mensais
- 📱 PWA (Progressive Web App)
- 🌐 i18n (Internacionalização)
- 🔐 Opção de backup em nuvem
- 📈 Relatórios detalhados
+- [ ] 📊 Gráficos de evolução financeira
+- [ ] 🏷️ Categorias personalizadas
+- [ ] 🎯 Metas de economia mensais
+- [ ] 📱 PWA (Progressive Web App)
+- [ ] 🌐 i18n (Internacionalização)
+- [ ] 🔐 Opção de backup em nuvem
+- [ ] 📈 Relatórios detalhados
 
-🤝 Contribuindo
+## 🤝 Contribuindo
+
 Contribuições são bem-vindas! Sinta-se livre para:
 
-🍴 Fazer um fork do projeto
-🔨 Criar uma branch para sua feature (git checkout -b feature/AmazingFeature)
-💾 Commit suas mudanças (git commit -m 'Add some AmazingFeature')
-📤 Push para a branch (git push origin feature/AmazingFeature)
-🎉 Abrir um Pull Request
+1. 🍴 Fazer um fork do projeto
+2. 🔨 Criar uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
+3. 💾 Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
+4. 📤 Push para a branch (`git push origin feature/AmazingFeature`)
+5. 🎉 Abrir um Pull Request
 
-📄 Licença
+## 📄 Licença
+
 MIT License - sinta-se livre para usar em projetos pessoais ou comerciais.
-👨‍💻 Autor
-Seu Nome
 
-GitHub: MATEUS VALENTIM DA SILVA
-LinkedIn: (https://www.linkedin.com/in/mateus-valentim/)
-Portfolio: (https://portifolio2-snowy.vercel.app/#inicio)
+## 👨‍💻 Autor
 
+**Mateus Valentim da Silva**
+
+- GitHub: [@seu-usuario](https://github.com/seu-usuario)
+- LinkedIn: [Mateus Valentim](https://www.linkedin.com/in/mateus-valentim/)
+- Portfolio: [portifolio2-snowy.vercel.app](https://portifolio2-snowy.vercel.app/#inicio)
+
+---
 
 <div align="center">
-⭐ Se este projeto te ajudou, deixe uma estrela!
+
+**⭐ Se este projeto te ajudou, deixe uma estrela!**
+
 Feito com 💚 e React
-Demo • Report Bug • Request Feature
+
+[Demo](https://seu-deploy.vercel.app) • [Report Bug](https://github.com/seu-usuario/moneymind/issues) • [Request Feature](https://github.com/seu-usuario/moneymind/issues)
+
 </div>
