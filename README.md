@@ -38,27 +38,30 @@ MoneyMind é **diferente**. Simples, rápido e direto ao ponto:
 💾 Persistência automática com localStorage
 🗑️ Deletar transações com um clique
 
-Extras
+### Extras
 
-📥 Exportação para CSV - Integre com suas planilhas
-🎨 Tema dark moderno - Experiência visual premium
-📱 Totalmente responsivo - Funciona perfeitamente no mobile
-⚡ Performance otimizada - React + Vite para velocidade máxima
+📥 **Exportação para CSV** - Integre com suas planilhas  
+🎨 **Tema dark moderno** - Experiência visual premium  
+📱 **Totalmente responsivo** - Funciona perfeitamente no mobile  
+⚡ **Performance otimizada** - React + Vite para velocidade máxima
 
-🛠️ Stack Técnica
-Por que essa stack?
-React 18       → Componentização e hooks modernos
-Vite          → Build ultrarrápido (até 10x mais rápido que CRA)
-Tailwind CSS  → Design system utility-first
-Lucide React  → Ícones modernos e leves
-LocalStorage  → Persistência sem backend
-Destaques de Código
+## 🛠️ Stack Técnica
 
-✅ Hooks avançados - useState, useEffect, useMemo para otimização
-✅ Componentização - Arquitetura limpa e modular
-✅ Cálculos derivados - Memoização para performance
-✅ Formatação i18n - Intl.NumberFormat para moeda brasileira
-✅ Export de dados - Geração de CSV client-side
+**Por que essa stack?**
+
+**React 18** → Componentização e hooks modernos  
+**Vite** → Build ultrarrápido (até 10x mais rápido que CRA)  
+**Tailwind CSS** → Design system utility-first  
+**Lucide React** → Ícones modernos e leves  
+**LocalStorage** → Persistência sem backend
+
+### Destaques de Código
+
+✅ **Hooks avançados** - useState, useEffect, useMemo para otimização  
+✅ **Componentização** - Arquitetura limpa e modular  
+✅ **Cálculos derivados** - Memoização para performance  
+✅ **Formatação i18n** - Intl.NumberFormat para moeda brasileira  
+✅ **Export de dados** - Geração de CSV client-side
 
 📦 Instalação
 bash# Clone o repositório
