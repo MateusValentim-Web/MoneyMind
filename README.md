@@ -3,23 +3,34 @@
 Controle financeiro pessoal minimalista e poderoso
 
 Pare de perder o controle do seu dinheiro. MoneyMind é a solução definitiva para quem quer organização financeira sem complicação.
-🎯 O Problema
-Você sabe exatamente para onde foi seu dinheiro no mês passado? A maioria das pessoas não sabe. Apps de controle financeiro são:
+## 🎯 O Problema
 
-❌ Complicados demais
-❌ Cheios de features que você nunca usa
-❌ Exigem cadastro e pagamento
+Você sabe exatamente para onde foi seu dinheiro no mês passado? A maioria das pessoas **não sabe**. Apps de controle financeiro são:
+
+❌ Complicados demais  
+❌ Cheios de features que você nunca usa  
+❌ Exigem cadastro e pagamento  
 ❌ Lentos e pesados
 
-✨ A Solução
-MoneyMind é diferente. Simples, rápido e direto ao ponto:
-✅ Zero fricção - Comece a usar em 2 segundos
-✅ Offline-first - Seus dados ficam no seu navegador
-✅ Design moderno - Interface dark bonita que você vai amar usar
-✅ Exportação CSV - Seus dados, suas regras
-✅ Filtros inteligentes - Veja gastos por mês instantaneamente
-🚀 Features
-Core
+## ✨ A Solução
+
+MoneyMind é **diferente**. Simples, rápido e direto ao ponto:
+
+✅ **Zero fricção** - Comece a usar em 2 segundos  
+✅ **Offline-first** - Seus dados ficam no seu navegador  
+✅ **Design moderno** - Interface dark bonita que você vai amar usar  
+✅ **Exportação CSV** - Seus dados, suas regras  
+✅ **Filtros inteligentes** - Veja gastos por mês instantaneamente
+
+## 🚀 Features
+
+### Core
+
+💸 **Adicionar entradas e saídas** com descrição e valor  
+📊 **Visualização em tempo real** do seu saldo  
+📅 **Filtro por mês** para análise temporal  
+💾 **Persistência automática** com localStorage  
+🗑️ **Deletar transações** com um clique
 
 💸 Adicionar entradas e saídas com descrição e valor
 📊 Visualização em tempo real do seu saldo
