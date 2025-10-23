@@ -175,7 +175,6 @@ MIT License - sinta-se livre para usar em projetos pessoais ou comerciais.
 
 **Mateus Valentim da Silva**
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
 - LinkedIn: [Mateus Valentim](https://www.linkedin.com/in/mateus-valentim/)
 - Portfolio: [portifolio2-snowy.vercel.app](https://portifolio2-snowy.vercel.app/#inicio)
 
