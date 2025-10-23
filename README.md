@@ -63,16 +63,34 @@ npm install
 npm run dev
 Acesse http://localhost:5173 e comece a usar! 🎉
 
-Screenshot
+
+## 🎨 Screenshot
+
 <img width="1918" height="864" alt="MoneyMind" src="https://github.com/user-attachments/assets/9f8aa156-7240-4564-a789-20194d878075" />
 
-Cards de resumo mostram entradas, saídas e saldo em tempo real.
-Filtro por Mês
-Analise seus gastos mês a mês com um único clique.
-Adicionar Transação
-Interface limpa e intuitiva para registro rápido.
-Tema Dark
-Design moderno com glassmorphism e gradientes suaves.
+<div align="center">
+
+### 💰 Dashboard Principal
+
+*Cards de resumo mostram entradas, saídas e saldo em tempo real*
+
+---
+
+### 📅 Filtro por Mês
+*Analise seus gastos mês a mês com um único clique*
+
+---
+
+### ➕ Adicionar Transação
+*Interface limpa e intuitiva para registro rápido*
+
+---
+
+### 🌙 Tema Dark
+
+*Design moderno com glassmorphism e gradientes suaves*
+
+</div>
 
 🧩 Arquitetura
 src/
@@ -134,8 +152,8 @@ MIT License - sinta-se livre para usar em projetos pessoais ou comerciais.
 Seu Nome
 
 GitHub: MATEUS VALENTIM DA SILVA
-LinkedIn: [Seu Nome](https://www.linkedin.com/in/mateus-valentim/)
-Portfolio: [seu-site.com](https://portifolio2-snowy.vercel.app/#inicio)
+LinkedIn: (https://www.linkedin.com/in/mateus-valentim/)
+Portfolio: (https://portifolio2-snowy.vercel.app/#inicio)
 
 
 <div align="center">
